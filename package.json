@@ -1,6 +1,6 @@
 {
   "name": "react-flow-automation2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -71,5 +71,8 @@
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
-  }
+  },
+  "contributors": [
+    "Mohamed Shiraz <shiraz@youplus.com>"
+  ]
 }
