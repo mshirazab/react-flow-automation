@@ -1,7 +1,5 @@
-import React from "react";
-import styles from "./styles.module.scss";
+import React from 'react';
+import styles from './styles.module.scss';
 
-const Header = () => {
-  return <header className={styles.header}>Lolol</header>;
-};
+const Header = () => <header className={styles.header}>Lolol</header>;
 export default Header;
